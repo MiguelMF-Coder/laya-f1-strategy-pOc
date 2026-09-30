@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/*.json
+data/*.csv
+data/*.parquet
+.streamlit/secrets.toml
+.vscode/
